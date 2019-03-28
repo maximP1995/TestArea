@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!--<com.qiaofeng.storychat.View.TestView2-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+    <!--<com.qiaofeng.storychat.View.TjrPopLayout-->
+        <!--android:layout_margin="10dp"-->
+        <!--android:id="@+id/pop"-->
+        <!--android:padding="10dp"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"/>-->
+    <!--<com.qiaofeng.storychat.View.TestImageView-->
+        <!--android:id="@+id/testImageView"-->
+        <!--android:src="@color/colorAccent"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+    <TextView
+        android:id="@+id/tv_test"
+        android:background="#333333"
+        android:text="test"
+        android:layout_marginRight="15dp"
+        android:padding="12dp"
+        android:textColor="#ffffff"
+        android:layout_gravity="center|right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</FrameLayout>
